@@ -1,7 +1,5 @@
 ## About me 👋
 
-**Sarita013/Sarita013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data analysis projects applied to finance (stock market) and education, and building digital learning tools.
