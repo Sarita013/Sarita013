@@ -10,18 +10,19 @@
 
 <h4 align="center">
 Soy estudiante de Matemáticas y aspirante a Ciencias de la Computación en la Universidad Nacional de Colombia (Sede Manizales). 
-Investigo en análisis de datos aplicado a finanzas (bolsa) y educación. Me encanta escribir contenido educativo, crear herramientas digitales para el aprendizaje y colaborar con organizaciones y fundaciones para generar impacto social.
+Investigo en análisis de datos aplicado a finanzas (bolsa) y educación. Me encanta escribir contenido educativo, crear herramientas
+digitales para el aprendizaje y colaborar con organizaciones y fundaciones para generar impacto social.
 </h4>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20views&color=0e75b6&style=plastic" alt="TU_USUARIO_GITHUB" />
+  <img src="https://komarev.com/ghpvc/?username=Sarita013&label=Profile%20views&color=0e75b6&style=plastic" alt="Sarita013" />
 </p>
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=algolia" alt="TU_USUARIO_GITHUB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarita013&theme=algolia" alt="Sarita013" />
 </p>
 
 ## 🛠️ My Skills
@@ -82,11 +83,11 @@ Investigo en análisis de datos aplicado a finanzas (bolsa) y educación. Me enc
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Vasheli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+      <img alt="Vasheli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sarita013&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </a>
     <br/>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=algolia" alt="TU_USUARIO_GITHUB" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarita013&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sarita013" height="192px"/>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -95,8 +96,8 @@ Investigo en análisis de datos aplicado a finanzas (bolsa) y educación. Me enc
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img alt="Vasheli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TU_USUARIO_GITHUB&custom_title=Vasheli's%20Contribution%20Graph&theme=react-dark" />
+  <a href="https://github.com/Sarita013">
+    <img alt="Vasheli's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarita013&custom_title=Vasheli%20Contribution%20Graph&theme=react-dark" />
   </a>
   <br/>
 </details>
@@ -106,13 +107,13 @@ Investigo en análisis de datos aplicado a finanzas (bolsa) y educación. Me enc
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="mailto:TU_CORREO"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/TU_USUARIO_GITHUB"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/Sarita013"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://instagram.com/soyvasheli"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN_SLUG/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <hr/>
 
-* Brand: **Vasheli** 🦉
-* Focus: **Data + Education + Social Impact**
-* Timezone: **UTC−05:00 (Colombia)**
+* Brand: **Vasheli** 🦉  
+* Focus: **Data + Education + Social Impact**  
+* Location/Timezone: **Manizales, Colombia (UTC−05:00)**  
